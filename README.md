@@ -3,7 +3,8 @@
 
 Repository for the Renesas IoT Sandox, Synergy Starter Kit, Data Monitoring powered by Bug Labs Software, Code, and Guide
 
-![Buglogo](https://github.com/buglabs/Synergy/blob/master/S7G2/Renesas%20Debug%20Console2.PNG)
+![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/BUG_logo_gif.gif)
+![Renesas](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/renesas.png)
 
 **Table of Contents** 
 - [Introduction](#introduction)
