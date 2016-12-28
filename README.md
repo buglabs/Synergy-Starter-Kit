@@ -1,6 +1,6 @@
 ![Renesas](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/renesas.png)
 
-# Renesas IoT Sandox  Synergy Starter Kit 
+# Renesas IoT Sandbox  Synergy Starter Kit 
 ## Firmware for Data Monitoring, powered by Bug Labs, Inc. 
 
 Repository for the Renesas IoT Sandox, Synergy Starter Kit, Data Monitoring powered by Bug Labs Software, Code, and Guide
