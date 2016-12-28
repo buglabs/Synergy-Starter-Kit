@@ -1,5 +1,3 @@
-![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/BUG_logo_gif.gif)
-
 ![Renesas](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/renesas.png)
 
 # Renesas IoT Sandox  Synergy Starter Kit 
@@ -17,6 +15,7 @@ Repository for the Renesas IoT Sandox, Synergy Starter Kit, Data Monitoring powe
 	- [Dweet Library](#dweet-library)
 	- [Dweet Client Examples](#dweet-client-examples)
 - [Troubleshooting Notes](#troubleshooting-notes)
+- [Helpful Links](#helpful-links)
 
 ## Introduction
 
@@ -134,3 +133,11 @@ This folder includes subfolders which contain the C static library (/lib) and he
 ## Troubleshooting Notes
 * While programming your Synergy hardware via e2 studio debugging, make sure you have pressed the Resume button in e2 studio’s debugging perspective enough times (twice in most cases) to surpass SSP’s default breakpoints so that the application enters its main thread.
 * Once the DweetClientExample application is running, the yellow user LED will illuminate as the networking connection is established. Once an IP address and DNS are successfully established, the yellow user LED turns off and green user LED illuminates. If the green user LED does not illuminate after 10-20 seconds, make sure the wired ethernet connection is secure and that the router is internet-enabled.
+
+## Helpful Links
+### SKS7 IoT Enabler Code and Guides
+* Lab 1 Smart Wine Transporter (https://www.renesas.com/en-us/software/D6000679.html)
+* Lab 2 Remote Song Player (https://www.renesas.com/en-us/software/D6000680.html)
+* Lab 3-5 Fun With Sensors (https://www.renesas.com/en-us/software/D6000632.html)
+
+![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/BUG_logo_gif.gif)
