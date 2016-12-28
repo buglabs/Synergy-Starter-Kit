@@ -56,48 +56,48 @@ https://www.renesas.com/en-us/doc/products/renesas-synergy/apn/r11an0023eu0113-s
 
 Before running the DweetClientExample application, make sure your board is connected via wired ethernet to an internet-enabled router. Once the application is successfully running on your Synergy development kit via the e2 studio debugger (Step 11), make sure you are still in the Debugging Perspective, and open the Renesas Debug Console:
 
-![Renesas Debug Console](https://github.com/buglabs/Synergy/blob/master/S7G2/Renesas%20Debug%20Console.PNG)
+![Renesas Debug Console](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/Renesas%20Debug%20Console.PNG)
 
 The console will show the unique board ID (‘thing name’) and the url that can be used to see live data coming from the board to Dweet.io
 
-![Renesas Debug Console2](https://github.com/buglabs/Synergy/blob/master/S7G2/Renesas%20Debug%20Console2.PNG)
+![Renesas Debug Console2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/Renesas%20Debug%20Console2.PNG)
 
 Open a browser, and navigate to this URL. Click the Raw tab to see the live example data coming from your Synergy hardware:
 
-![Follow](https://github.com/buglabs/Synergy/blob/master/S7G2/follow.PNG)
+![Follow](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/follow.PNG)
 
-![Follow2](https://github.com/buglabs/Synergy/blob/master/S7G2/follow2.PNG)
+![Follow2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/follow2.PNG)
 
 To demo the example command functionality to the board, toggle the red user LED by sending an HTTP GET to the following URL: (https://dweet.io/dweet/for/SKS7-672e-send?led=1) (Note: Replace SKS7-672e with your board name)
 
 You can use cURL, a popular command-line software tool, or simply enter the URL into a browser as follows:
 
-![dweet for](https://github.com/buglabs/Synergy/blob/master/S7G2/dweet%20for.PNG)
+![dweet for](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/dweet%20for.PNG)
 
 The red LED should illuminate within seconds, and the live data payload’s LED status coming from the board should reflect accordingly:
 
-![Follow3](https://github.com/buglabs/Synergy/blob/master/S7G2/follow3.PNG)
+![Follow3](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/follow3.PNG)
 
 ## Demo Dashboard
 
 Renesas Synergy projects using the Dweet Client VSA can leverage the abundant community of cloud applications that integrate with Dweet-connected devices, including Freeboard.
 Navigate to http://ssp.freeboard.io :
 
-![freeboard](https://github.com/buglabs/Synergy/blob/master/S7G2/freeboard.PNG)
+![freeboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/freeboard.PNG)
 
 Enter the Board ID, and click SET. Within seconds, the live Dweet counter and LED status will
 populate in the dashboard user interface.
 
-![freeboard2](https://github.com/buglabs/Synergy/blob/master/S7G2/freeboard2.PNG)
+![freeboard2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/freeboard2.PNG)
 
 To demonstrate control functionality to the board, click on the RED LED indicator to toggle the board’s
 red user LED.
 
-![freeboard3](https://github.com/buglabs/Synergy/blob/master/S7G2/freeboard3.PNG)
+![freeboard3](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/freeboard3.PNG)
 
 The LED indicator will reflect the board’s current LED status.
 
-![freeboard4](https://github.com/buglabs/Synergy/blob/master/S7G2/freeboard4.PNG)
+![freeboard4](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S7G2/freeboard4.PNG)
 
 ## Source Code Details
 
