@@ -3,7 +3,7 @@
 # Renesas IoT Sandbox  Synergy Starter Kit 
 ## Firmware for Data Monitoring, powered by Bug Labs, Inc. 
 
-Repository for the Renesas IoT Sandox, Synergy Starter Kit, Data Monitoring powered by Bug Labs Software, Code, and Guide
+Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring powered by Bug Labs Software, Code, and Guide
 
 **Table of Contents** 
 - [Introduction](#introduction)
