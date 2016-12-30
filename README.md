@@ -139,5 +139,6 @@ This folder includes subfolders which contain the C static library (/lib) and he
 * Lab 1 Smart Wine Transporter (https://www.renesas.com/en-us/software/D6000679.html)
 * Lab 2 Remote Song Player (https://www.renesas.com/en-us/software/D6000680.html)
 * Lab 3-5 Fun With Sensors (https://www.renesas.com/en-us/software/D6000632.html)
+* IoT Enabler Lab update Instructions (https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Files/SKS7/S7G2%20Beta%20Kit%20Update%20Instructions.pdf)
 
 ![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/BUG_logo_gif.gif)
