@@ -11,9 +11,6 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 	- [Connect Kit to Computer](#connect-kit-to-computer)
 - [Programming](#programming)
 	- [Windows](#windows)
-	- [Source Code Details](#source-code-details)
-	- [Dweet Library](#dweet-library)
-	- [Dweet Client Examples](#dweet-client-examples)
 - [Troubleshooting Notes](#troubleshooting-notes)
 - [Helpful Links](#helpful-links)
 
