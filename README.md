@@ -64,13 +64,13 @@ Set settings to: R7FS3A77C, JTAG, 6000
 
 ![ren7](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren7.png)
 
-![ren8](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren8.png)
-
 Add the Binary file
 
-![ren9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren9.png)
+![ren8](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren8.png)
 
 Open binary, select program, click “Program Device”
+
+![ren9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren9.png)
 
 ![ren10](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren10.png)
 
