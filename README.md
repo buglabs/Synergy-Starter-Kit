@@ -62,26 +62,26 @@ Click OK on the popup
 
 Set settings to: R7FS3A77C, JTAG, 6000
 
-![ren7](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren7.jpg)
+![ren7](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren7.png)
 
-![ren8](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren8.jpg)
+![ren8](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren8.png)
 
 Add the Binary file
 
-![ren9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren9.jpg)
+![ren9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren9.png)
 
 Open binary, select program, click “Program Device”
 
-![ren10](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren10.jpg)
+![ren10](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren10.png)
 
-![ren11](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren11.jpg)
+![ren11](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren11.png)
 
 Restart Board - Congrats!
 
 ## Troubleshooting Notes
 * The following popup means the J-Link drivers were not successfully installed. Please install again.
 
-![ren12](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren12.jpg)
+![ren12](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren12.png)
 
 ## Helpful Links
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
