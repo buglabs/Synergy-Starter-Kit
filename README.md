@@ -61,7 +61,7 @@ Set settings to: R7FS3A77C, JTAG, 6000
 
 ![ren7](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren7.png)
 
-Add the Binary file
+Add the S3A7Dweet Binary file from here: (https://github.com/buglabs/Synergy-Starter-Kit/tree/master/Files/S3A7)
 
 ![ren8](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren8.png)
 
