@@ -1,86 +1,59 @@
 ![Renesas](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/renesas.png)
 
-# Renesas IoT Sandbox  S3A7 Synergy Starter Kit 
-## Binary for Data Monitoring, powered by Bug Labs, Inc. 
+# Renesas IoT Sandbox  S5D9 Synergy Starter Kit 
+## Data Monitoring, powered by Bug Labs, Inc. 
 
 Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring powered by Bug Labs Software, Code, and Guide
 
 **Table of Contents** 
 - [Getting Started](#getting-started)
-	- [Install J-Link Software](#install-j-link-software)
-	- [Connect Kit to Computer](#connect-kit-to-computer)
 - [Programming](#programming)
-	- [Windows](#windows)
 - [Troubleshooting Notes](#troubleshooting-notes)
 - [Helpful Links](#helpful-links)
 
 ## Getting Started
 
-In order to use the Data Monitoring platform, you must first download the renesas.dweet.io binary onto your S3A7 Synergy Starter Kit.
-You will need the following:
+### Step 1 
 
-* Renesas S3A7 Fast Prototyping kit with JLink connector
-* Download “J-Link Software and Documentation Pack” from https://www.segger.com/downloads/jlink if not already installed on your computer
-* Program image (.srec format)
-* Windows or Mac computer
+* Take board out of box
 
-### Install J-Link Software
+### Step 2 
 
-Download file from above. Remember where you save the execuitable file
+* Connect USB cable to laptop
 
-### Connect Kit to Computer
+	* Board comes up as USB drive
+	* USB also provides power to the board
 
-Connect the debugger to your computer and S3A7 kit like below
+### Step 3 
 
-![ren1](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren1.jpg)
+* Open RunProgram.txt 
 
-![ren2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren2.jpg)
+	* Edit the “program name” to say “Remote Sensor Monitoring”
+	* Where it says “run” and “program name” 
 
-![ren3](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren3.jpg)
+### Step 4 
+
+* Connect board to Ethernet
+
+### Step 5 
+
+* Open ThingName.txt and 
+* Copy Thing Name into the field on the Data Monitoring developer area
 
 
-Finally, connect one USB to power the S3A7 board and a second USB from the JLink programmer to your PC.
+* Click enter
 
+### Step 6 
 
-## Programming
-### Windows
+* A dashboard will appear with live sensor data streaming from the board
 
-Make sure J-Link drivers were installed
+	* Data streams once per second
 
-![J-Link driver](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/J-Link%20driver.png)
-
-Open J-FLash Lite Program
-
-![J-Flash Lite](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/J-Flash%20Lite.png)
-
-Click OK on the popup
-
-![J-Flash popup](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/J-Flash%20popup.png)
-
-Set settings to: R7FS3A77C, JTAG, 6000
-
-![ren7](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren7.png)
-
-Add the S3A7Dweet Binary file from here: (https://github.com/buglabs/Synergy-Starter-Kit/tree/master/Files/S3A7)
-
-![ren8](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren8.png)
-
-Open binary, select program, click “Program Device”
-
-![ren9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren9.png)
-
-![ren10](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren10.png)
-
-![ren11](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren11.png)
-
-Restart Board - Congrats!
 
 ## Troubleshooting Notes
-* The following popup means the J-Link drivers were not successfully installed. Please install again.
-
-![ren12](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S3A7/ren12.png)
 
 ## Helpful Links
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
+* DweetPro Production ready APIs and UI: (https://dweetpro.io)
 
 ![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/BUG_logo_gif.gif)
