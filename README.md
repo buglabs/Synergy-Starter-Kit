@@ -47,9 +47,11 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ### Step 6 
 
-* A dashboard will appear with live sensor data streaming from the board
+* A page will appear with live sensor data streaming from the board (Data streams once per second)
 
-	* Data streams once per second
+	* Click on the Create Custom Dashboard button to launch your [freeboard dashboard](https://renesas.freeboard.io)
+	
+![Custom Dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Custom%20Dashboard.PNG)
 
 
 ## Troubleshooting Notes
