@@ -7,7 +7,7 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 **Table of Contents** 
 - [Getting Started](#getting-started)
-- [Programming](#programming)
+- [Using Freeboard](#using-freeboard)
 - [Troubleshooting Notes](#troubleshooting-notes)
 - [Helpful Links](#helpful-links)
 
@@ -53,6 +53,60 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 	
 ![Custom Dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Custom%20Dashboard.PNG)
 
+
+## Using Freeboard
+
+Freeboard is a web-based visualization tool used for displaying and interacting with data. Freeboard is open-source and fully-customizable, allowing the user to create rich Internet of Things applications.
+
+### Datasources
+
+Your Renesas Synery Kit comes with software that allows the device to connect to the [dweet messaging platform](https://dweet.io)
+
+The dweet platform is one possible datasource that freeboard can use to display data. Your custom dashboard will already be set up with this datasource, titled Renesas-Dweet (This is a custom instance of dweet supplied by Bug Labs, to Renesas. Further customization is available upon request). 
+
+To add a new datasource, such as a 3rd party API, Click on the ADD button
+
+![DSource](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/DSource.PNG)
+
+Next, choose the datasource you wish to connect. For example, choose the JSON datasource to add a 3rd party web API. In the following example, we choose the Weather datasource
+
+![DSource1](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/DSource1.PNG)
+
+Fill out the appropriate details, and click on SAVE
+
+![DSource2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/DSource2.PNG)
+
+Congratulations! You have now added a new datasource. Next we see how to use your new source of data.
+
+### Widgets
+
+The freeboard platform comes with a standard set of widgets to use for visualizing data.  To add a new widget to your dashboard, click on the Add Pane button:
+
+![addpane](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/addpane.PNG)
+
+A new pane will be added to the top left of your dashboard. 
+
+Click on the + sign in the header of your new pane.  A selection popup will appear:
+
+![Widget](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Widget.PNG)
+
+Select the widget type you wish to use (in our case we use the gauge).
+
+![Widget2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Widget2.PNG)
+
+Fill out the information in the widget setup screen, then click SAVE.
+
+![Widget3](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Widget3.PNG)
+
+Congratulations!  You have just added a new widget to your dashboard. 
+
+Next step, keep adding more datasources and widgets, then Share your dashboard.
+
+One last note: Bug Labs provides a set of off-the-shelf widgets to use, however, the user is able to add new widgets and datasource types by adding plugins to the Developer Console
+
+![console](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/console.PNG)
+
+Documentation for creating new plugins can be found within the Developer Console.
 
 ## Troubleshooting Notes
 
