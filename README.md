@@ -29,7 +29,8 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 * Open RunProgram.txt 
 
 	* Edit the “program name” to say “Remote Sensor Monitoring”
-	* Where it says “run” and “program name” 
+	
+		* Where it says “run” and “program name” 
 
 ### Step 4 
 
@@ -37,10 +38,9 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ### Step 5 
 
-* Open ThingName.txt and 
-* Copy Thing Name into the field on the Data Monitoring developer area
-
-
+* Open ThingName.txt 
+* Copy Thing Name into the field on the Data Monitoring developer area (https://renesas.dweet.io/)
+![IoT Sandbox}(https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/IoT%20Sandbox.PNG)
 * Click enter
 
 ### Step 6 
