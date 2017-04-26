@@ -66,7 +66,7 @@ The dweet platform is one possible datasource that freeboard can use to display 
 
 To add a new datasource, such as a 3rd party API, Click on the ADD button
 
-![DSource](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/DSource.PNG)
+![Dsource6](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Dsource6.PNG)
 
 Next, choose the datasource you wish to connect. For example, choose the JSON datasource to add a 3rd party web API. In the following example, we choose the Weather datasource
 
