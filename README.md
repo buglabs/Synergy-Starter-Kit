@@ -43,7 +43,7 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ![sandbox2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/sandbox2.PNG)
 
-* Click enter
+* Click Try it now!
 
 ### Step 6 
 
