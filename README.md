@@ -41,7 +41,7 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 * Open ThingName.txt 
 * Copy Thing Name (S5D9-XXXX) into the field on the [Data Monitoring developer area](https://renesas.dweet.io/)
 
-![IoT Sandbox](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/IoT%20Sandbox.PNG)
+![sandbox1](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/sandbox1.PNG)
 
 * Click enter
 
