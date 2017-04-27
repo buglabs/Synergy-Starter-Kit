@@ -51,7 +51,7 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 	* Click on the Create Custom Dashboard button to launch your [freeboard dashboard](https://renesas.freeboard.io)
 	
-![Custom Dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Custom%20Dashboard.PNG)
+![S5D9 follow](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S5D9%20follow.PNG)
 
 
 ## Using Freeboard
