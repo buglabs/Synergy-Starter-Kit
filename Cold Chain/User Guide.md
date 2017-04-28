@@ -1,3 +1,5 @@
+ ![renesas](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/renesas.png)
+
 # User Guide for the Cold Chain Demo dashboard 
 
 https://renesas.freeboard.io/board/cSyXRK
@@ -8,7 +10,7 @@ https://renesas.freeboard.io/board/cSyXRK
 * Send an alarm if the temperature rises above a certain threshold.
 * Connect History line graph to User-Controllable device output.
 
-![coldchain2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/coldchain2.PNG)
+![coldchain2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/coldchain2.PNG)
 
 ## Using the Dashboard
 
@@ -30,12 +32,15 @@ https://renesas.freeboard.io/board/cSyXRK
 
 * You can customize this dashboard by "Cloning" the board. Click on the Clone button.
   * You may be instructed to sign in.
-  * Instructions for adding new datasources, and new widgets see here:
+  * Instructions for adding new datasources and new widgets is here:
   https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md
   
 * After cloning, click on the wrench in the Alarm widget to set new alerts.
   * You can also set an email address or SMS to receive alerts.
   
-  ![Notification widget](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Notification%20widget.PNG)
+  ![Notification widget1](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/Notification%20widget1.PNG)
   
+ * Customize as needed, then share your new URL!
+ 
+ ![BUG_logo_gif](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/BUG_logo_gif.gif)
   
