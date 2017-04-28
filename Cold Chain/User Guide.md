@@ -1,16 +1,41 @@
-Here lives the User Guide for the Cold Chain Demo dashboard (https://renesas.freeboard.io/board/V57QxK)
+# User Guide for the Cold Chain Demo dashboard 
 
-Purpose:
+https://renesas.freeboard.io/board/cSyXRK
+
+## Purpose:
 
 * Create a demonstration freeboard dashboard that uses the S5D9 Synergy Kit to monitor temperature over time.
 * Send an alarm if the temperature rises above a certain threshold.
+* Connect History line graph to User-Controllable device output.
 
-Goal:
+![coldchain2](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/coldchain2.PNG)
 
-* Enter thing name of S5D9 kit.
-* Dashboard loads simulated data of a trip. (Orange plus Monsoon)
+## Using the Dashboard
 
-* Temperature / humidity as Text + Sparkline or gauge
-* Alarm widget set up to display temperature readings above 50
-* History widget is a static line chart of last 24 hrs (Use fake data or picture for conference center demo)
+* First, a trace line forms on a map of San Francisco.
+  * This uses simulated data
+  * A GPS unit can connect to your S5D9 board via Grove Connector.
 
+* Second, enter the Thing-Name in the upper left box.
+  * Click SET
+  
+* The temperature gauge reads the output from the device.
+
+* The alarm widget outputs a notification at each trigger.
+
+* Finally, the History and Humidity sparklines should activate. 
+  * The History sparkline is connected to the accelerometer for demonstration purposes.
+  
+### Doing more
+
+* You can customize this dashboard by "Cloning" the board. Click on the Clone button.
+  * You may be instructed to sign in.
+  * Instructions for adding new datasources, and new widgets see here:
+  https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md
+  
+* After cloning, click on the wrench in the Alarm widget to set new alerts.
+  * You can also set an email address or SMS to receive alerts.
+  
+  ![Notification widget](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/Notification%20widget.PNG)
+  
+  
