@@ -110,7 +110,9 @@ One last note: Bug Labs provides a set of off-the-shelf widgets to use, however,
 
 Documentation for creating new plugins can be found within the Developer Console.
 
-## Troubleshooting Notes
+## Do More
+
+* Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Cold%20Chain/User%20Guide.md
 
 ## Helpful Links
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
