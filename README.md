@@ -8,38 +8,38 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 **Table of Contents** 
 - [Getting Started](#getting-started)
 - [Using Freeboard](#using-freeboard)
-- [Troubleshooting Notes](#troubleshooting-notes)
+- [Do More](#do-more)
 - [Helpful Links](#helpful-links)
 
 ## Getting Started
 
 ### Step 1 
 
-* Take board out of box
+* Take board out of box.
 
 ### Step 2 
 
-* Connect USB cable to laptop
+* Connect USB cable to laptop.
 
-	* Board comes up as USB drive
-	* USB also provides power to the board
+	* Board comes up as USB drive.
+	* USB also provides power to the board.
 
 ### Step 3 
 
-* Open RunProgram.txt 
+* Open RunProgram.txt.
 
-	* Edit the “program name” to say “Remote Sensor Monitoring”
+	* Edit the “program name” to say “Remote Sensor Monitoring”.
 	
 		* Where it says “run” and “program name” 
 
 ### Step 4 
 
-* Connect board to Ethernet
+* Connect board to Ethernet.
 
 ### Step 5 
 
-* Open ThingName.txt 
-* Copy Thing Name (S5D9-XXXX) into the field on the [Data Monitoring developer area](https://renesas.dweet.io/)
+* Open ThingName.txt.
+* Copy Thing Name (S5D9-XXXX) into the field on the [Data Monitoring developer area](https://renesas.dweet.io/) webpage.
 
 ![sandbox2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/sandbox2.PNG)
 
@@ -59,19 +59,19 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ### Datasources
 
-Your Renesas Synery Kit comes with software that allows the device to connect to the [dweet messaging platform](https://dweet.io)
+Your Renesas Synery Kit comes with software that allows the device to connect to the [dweet messaging platform](https://dweet.io).
 
 The dweet platform is one possible datasource that freeboard can use to display data. Your custom dashboard will already be set up with this datasource, titled Renesas-Dweet (This is a custom instance of dweet supplied by Bug Labs, to Renesas. Further customization is available upon request). 
 
-To add a new datasource, such as a 3rd party API, Click on the ADD button
+To add a new datasource, such as a 3rd party API, Click on the ADD button.
 
 ![Dsource6](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/Dsource6.PNG)
 
-Next, choose the datasource you wish to connect. For example, choose the JSON datasource to add a 3rd party web API. In the following example, we choose the Weather datasource
+Next, choose the datasource you wish to connect. For example, choose the JSON datasource to add a 3rd party web API. In the following example, we choose the Weather datasource.
 
 ![DSource1](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/DSource1.PNG)
 
-Fill out the appropriate details, and click on SAVE
+Fill out the appropriate details, and click on SAVE.
 
 ![DSource2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/DSource2.PNG)
 
@@ -101,7 +101,7 @@ Congratulations!  You have just added a new widget to your dashboard.
 
 Next step, keep adding more datasources and widgets, then Share your dashboard.
 
-One last note: Bug Labs provides a set of off-the-shelf widgets to use, however, the user is able to add new widgets and datasource types by adding plugins to the Developer Console
+One last note: Bug Labs provides a set of off-the-shelf widgets to use, however, the user is able to add new widgets and datasource types by adding plugins to the Developer Console.
 
 ![console](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/console.PNG)
 
