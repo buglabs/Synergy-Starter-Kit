@@ -47,18 +47,15 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ### Step 6 
 
-* A page will appear with live sensor data streaming from the board (Data streams once per second)
+* You will be re-directed to the freeboard dashboaurd builder.
+* Live sensor data will begin streaming from the board (Data streams once per second).
 
-![S5D9 follow](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/S5D9%20follow.PNG)
-
-* Click on the Create Custom Dashboard button to launch your [freeboard dashboard](https://renesas.freeboard.io)
-
-![dash1](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash1.PNG)
+![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
 
 
 ## Using Freeboard
 
-Freeboard is a web-based visualization tool used for displaying and interacting with data. Freeboard is open-source and fully-customizable, allowing the user to create rich Internet of Things applications.
+[Freeboard](https://freeboard.io) is a web-based visualization tool used for displaying and interacting with data. [Freeboard](https://freeboard.io) is open-source and fully-customizable, allowing the user to create rich Internet of Things applications.
 
 ### Datasources
 
