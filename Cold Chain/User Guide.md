@@ -2,8 +2,6 @@
 
 # User Guide for the Cold Chain Demo dashboard 
 
-https://renesas.freeboard.io/board/cSyXRK
-
 ## Purpose:
 
 * Create a demonstration freeboard dashboard that uses the S5D9 Synergy Kit to monitor temperature over time.
@@ -13,6 +11,10 @@ https://renesas.freeboard.io/board/cSyXRK
 ![coldchain2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/coldchain2.PNG)
 
 ## Using the Dashboard
+
+Click on the following link:
+
+https://renesas.freeboard.io/board/cSyXRK
 
 * First, a trace line forms on a map of San Francisco.
   * This uses simulated data
@@ -24,6 +26,7 @@ https://renesas.freeboard.io/board/cSyXRK
 * The temperature gauge reads the output from the device.
 
 * The alarm widget outputs a notification at each trigger.
+  * Alarm is pre-set to 80 degrees Fahrenheit 
 
 * Finally, the History and Humidity sparklines should activate. 
   * The History sparkline is connected to the accelerometer for demonstration purposes.
