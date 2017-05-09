@@ -111,6 +111,7 @@ Documentation for creating new plugins can be found within the Developer Console
 
 * Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Cold%20Chain/User%20Guide.md
 * View the API documentation: https://renesas.dweet.io/play/
+* Using the S3A7 kit: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/S3A7/readme.md
 
 ## Helpful Links
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
