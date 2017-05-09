@@ -47,7 +47,7 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ### Step 6 
 
-* You will be re-directed to the freeboard dashboaurd builder.
+* You will be re-directed to the freeboard dashboard builder.
 * Live sensor data will begin streaming from the board (Data streams once per second).
 
 ![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
