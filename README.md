@@ -94,7 +94,7 @@ Documentation for creating new plugins can be found within the Developer Console
 
 * Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Cold%20Chain/User%20Guide.md
 * View the Data Monitoring API documentation: https://renesas.dweet.io/play/
-* Using the S3A7 kit: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/S3A7/readme.md
+* To learn more about the Renesas IoT Sandbox and to download documentation and source code for the kit, please visit www.renesas.com/iotsandbox
 
 ## Helpful Links
 
@@ -102,6 +102,7 @@ Documentation for creating new plugins can be found within the Developer Console
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
 * DweetPro Production ready APIs and UI: (https://dweetpro.io)
 * [Data Monitoring developer area](https://renesas.dweet.io/) 
+* Using the S3A7 kit: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/S3A7/readme.md
 
 ## Notes
 
