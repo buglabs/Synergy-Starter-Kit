@@ -101,6 +101,8 @@ Documentation for creating new plugins can be found within the Developer Console
 * DweetPro Production ready APIs and UI: (https://dweetpro.io)
 * [Data Monitoring developer area](https://renesas.dweet.io/) 
 
+## Notes
+
 <a name="myfootnote1">1</a>: USB and Ethernet cables are not included.
 
 
