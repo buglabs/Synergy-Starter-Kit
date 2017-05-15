@@ -28,6 +28,9 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 * Now open a web browser and go to www.renesas.com/iotsandbox/S5D9/getstarted.  
 * Enter your board’s Thing Name into the field marked “Enter Thing Name here…” and press the “Try it now!” button.  
 
+![sandbox2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/sandbox2.PNG)
+
+
 At this point, you should see sensor data from your board streaming to the dashboard at an update rate of approximately once per second.  You can shake the board to watch the accelerometer readings change or snap your fingers and watch the sound level change.  You can also click on the button in the browser marked “RED LED” and watch it turn on the LED on your board.  
 
 Congratulations you’ve just successfully setup your board for data monitoring!
@@ -35,7 +38,6 @@ Congratulations you’ve just successfully setup your board for data monitoring!
 
 [Data Monitoring developer area](https://renesas.dweet.io/) webpage.
 
-![sandbox2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/sandbox2.PNG)
 
 
 ![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
