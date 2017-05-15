@@ -30,18 +30,11 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ![thingnamebox](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/thingnamebox.PNG)
 
-
 At this point, you should see sensor data from your board streaming to the dashboard at an update rate of approximately once per second.  You can shake the board to watch the accelerometer readings change or snap your fingers and watch the sound level change.  You can also click on the button in the browser marked “RED LED” and watch it turn on the LED on your board.  
-
-Congratulations you’ve just successfully setup your board for data monitoring!
-
-
-[Data Monitoring developer area](https://renesas.dweet.io/) webpage.
-
-
 
 ![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
 
+Congratulations you’ve just successfully setup your board for data monitoring!
 
 ## Using Freeboard
 
@@ -100,12 +93,13 @@ Documentation for creating new plugins can be found within the Developer Console
 ## Do More
 
 * Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Cold%20Chain/User%20Guide.md
-* View the API documentation: https://renesas.dweet.io/play/
+* View the Data Monitoring API documentation: https://renesas.dweet.io/play/
 * Using the S3A7 kit: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/S3A7/readme.md
 
 ## Helpful Links
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
 * DweetPro Production ready APIs and UI: (https://dweetpro.io)
+* [Data Monitoring developer area](https://renesas.dweet.io/) 
 
 <a name="myfootnote1">1</a>: USB and Ethernet cables are not included.
 
