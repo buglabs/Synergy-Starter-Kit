@@ -40,6 +40,9 @@ Congratulations you’ve just successfully setup your board for data monitoring!
 
 [Freeboard](https://freeboard.io) is a web-based visualization tool used for displaying and interacting with data. [Freeboard](https://freeboard.io) is open-source and fully-customizable, allowing the user to create rich Internet of Things applications.
 
+Sign up for a Renesas Freeboard account to do more:
+https://renesas.freeboard.io/signup
+
 ### Datasources
 
 Your Renesas Synery Kit comes with software that allows the device to connect to the [dweet messaging platform](https://dweet.io).
