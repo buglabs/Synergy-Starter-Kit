@@ -97,6 +97,8 @@ Documentation for creating new plugins can be found within the Developer Console
 * Using the S3A7 kit: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/S3A7/readme.md
 
 ## Helpful Links
+
+* Support for the S5D9 can be found here: (http://renesasrulz.com/iot/)
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
 * DweetPro Production ready APIs and UI: (https://dweetpro.io)
 * [Data Monitoring developer area](https://renesas.dweet.io/) 
