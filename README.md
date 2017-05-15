@@ -19,7 +19,7 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 * Now connect<sup>[1](#myfootnote1)</sup> the Ethernet port on the board to an Ethernet port on a network router which is internet enabled. 
 
-![S5D9 layout](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S5D9%20layout.PNG)
+![S5D9 layout](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/S5D9%20layout.PNG)
 
 ### Step 2 
 
