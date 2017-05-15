@@ -15,40 +15,28 @@ Repository for the Renesas IoT Sandbox, Synergy Starter Kit, Data Monitoring pow
 
 ### Step 1 
 
-* Take board out of box.
+* Take the board out of the box and connect<sup>[1](#myfootnote1)</sup> the USB port on the board to a USB port on your laptop.  This will power up the board and the board will enumerate as a USB drive on your laptop.  
+
+* Now connect<sup>[1](#myfootnote1)</sup> the Ethernet port on the board to an Ethernet port on a network router which is internet enabled. 
+
+![S5D9 layout](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Pictures/S5D9%20layout.PNG)
 
 ### Step 2 
 
-* Connect USB cable to laptop.
+* Click on the USB drive which represents your board.  
+* Find the “ThingName.txt” file and open it.  The file will contain the Thing Name for your board.  
+* Now open a web browser and go to www.renesas.com/iotsandbox/S5D9/getstarted.  
+* Enter your board’s Thing Name into the field marked “Enter Thing Name here…” and press the “Try it now!” button.  
 
-	* Board comes up as USB drive.
-	* USB also provides power to the board.
+At this point, you should see sensor data from your board streaming to the dashboard at an update rate of approximately once per second.  You can shake the board to watch the accelerometer readings change or snap your fingers and watch the sound level change.  You can also click on the button in the browser marked “RED LED” and watch it turn on the LED on your board.  
 
-### Step 3 
+Congratulations you’ve just successfully setup your board for data monitoring!
 
-* Open RunProgram.txt.
 
-	* Edit the “program name” to say “Remote Sensor Monitoring”.
-	
-		* Where it says “run” and “program name” 
-
-### Step 4 
-
-* Connect board to Ethernet.
-
-### Step 5 
-
-* Open ThingName.txt.
-* Copy Thing Name (S5D9-XXXX) into the field on the [Data Monitoring developer area](https://renesas.dweet.io/) webpage.
+[Data Monitoring developer area](https://renesas.dweet.io/) webpage.
 
 ![sandbox2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/sandbox2.PNG)
 
-* Click Try it now!
-
-### Step 6 
-
-* You will be re-directed to the freeboard dashboard builder.
-* Live sensor data will begin streaming from the board (Data streams once per second).
 
 ![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
 
@@ -116,5 +104,8 @@ Documentation for creating new plugins can be found within the Developer Console
 ## Helpful Links
 * Freeboard Open Source Repo: (https://github.com/Freeboard/freeboard)
 * DweetPro Production ready APIs and UI: (https://dweetpro.io)
+
+<a name="myfootnote1">1</a>: USB and Ethernet cables are not included.
+
 
 ![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/BUG_logo_gif.gif)
