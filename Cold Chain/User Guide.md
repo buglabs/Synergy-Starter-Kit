@@ -26,10 +26,10 @@ https://renesas.freeboard.io/board/cSyXRK
   
 * The Temperature gauge reads the output from the device.
   * This will set the Alarm widget to one degree Fahrenheit below the first temperature reading from your board.
-  * The Alarm Set point will show in the Dynamic Alert Value widget.
 
 * The Alarms widget outputs a notification at each trigger.
-  * The alarm widget will start to show notifications.
+
+* The Dynamic Alert Value widget will show the Alarm set point.
 
 * Finally, the History and Humidity sparklines should activate. 
   * The History sparkline is connected to the accelerometer for demonstration purposes.
