@@ -17,18 +17,19 @@ Click on the following link:
 https://renesas.freeboard.io/board/cSyXRK
 
 * First, a trace line forms on a map of San Francisco.
-  * This uses simulated data
+  * This uses simulated data.
   * A GPS unit can connect to your S5D9 board via Grove Connector.
 
 * Second, enter the Thing-Name of your S5D9 board in the upper left box.
-  * Click SET
-  * [Instructions for finding your thing name can be found here](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md)
+  * Click SET.
+  * [Instructions for finding your thing name can be found here.](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md)
   
-* The temperature gauge reads the output from the device.
+* The Temperature gauge reads the output from the device.
+  * This will set the Alarm widget to one degree Fahrenheit below the first temperature reading from your board.
+  * The Alarm Set point will show in the Dynamic Alert Value widget.
 
-* The alarm widget outputs a notification at each trigger.
-  * Alarm is pre-set to one degree Fahrenheit below the first temperature reading from your board.
-  * The alarm widget will start to show notifications
+* The Alarms widget outputs a notification at each trigger.
+  * The alarm widget will start to show notifications.
 
 * Finally, the History and Humidity sparklines should activate. 
   * The History sparkline is connected to the accelerometer for demonstration purposes.
@@ -36,12 +37,12 @@ https://renesas.freeboard.io/board/cSyXRK
 ### Doing more
 
 * You can customize this dashboard by "Cloning" the board. Click on the Clone button.
-  * [You may be instructed to login](https://renesas.freeboard.io/login).
+  * [You may be instructed to login.](https://renesas.freeboard.io/login)
   * Instructions for adding new datasources and new widgets are here:
   https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md
   
 * After cloning, click on the wrench in the Alarm widget to set new alerts.
-  * You can also set an email address or SMS to receive alerts.
+  * You can also set an email address or SMS number to receive alerts.
   
 ![Notification widget1](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/Notification%20widget1.PNG)
   
