@@ -8,7 +8,7 @@
 * Send an alarm if the temperature rises above a certain threshold.
 * Connect History line graph to User-Controllable device output.
 
-![coldchain2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/coldchain2.PNG)
+![coldchain3](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/coldchain3.PNG)
 
 ## Using the Dashboard
 
@@ -20,13 +20,15 @@ https://renesas.freeboard.io/board/cSyXRK
   * This uses simulated data
   * A GPS unit can connect to your S5D9 board via Grove Connector.
 
-* Second, enter the Thing-Name in the upper left box.
+* Second, enter the Thing-Name of your S5D9 board in the upper left box.
   * Click SET
+  * [Instructions for finding your thing name can be found here](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md)
   
 * The temperature gauge reads the output from the device.
 
 * The alarm widget outputs a notification at each trigger.
-  * Alarm is pre-set to 80 degrees Fahrenheit 
+  * Alarm is pre-set to one degree Fahrenheit below the first temperature reading from your board.
+  * The alarm widget will start to show notifications
 
 * Finally, the History and Humidity sparklines should activate. 
   * The History sparkline is connected to the accelerometer for demonstration purposes.
@@ -34,16 +36,20 @@ https://renesas.freeboard.io/board/cSyXRK
 ### Doing more
 
 * You can customize this dashboard by "Cloning" the board. Click on the Clone button.
-  * You may be instructed to sign in.
-  * Instructions for adding new datasources and new widgets is here:
+  * [You may be instructed to login](https://renesas.freeboard.io/login).
+  * Instructions for adding new datasources and new widgets are here:
   https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md
   
 * After cloning, click on the wrench in the Alarm widget to set new alerts.
   * You can also set an email address or SMS to receive alerts.
   
-  ![Notification widget1](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/Notification%20widget1.PNG)
+![Notification widget1](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/Notification%20widget1.PNG)
   
- * Customize as needed, then share your new URL!
+* Customize as needed, then share your new URL!
+ 
+### Notes
+
+Need an account? [Sign up here!](https://renesas.freeboard.io/signup)
  
  ![BUG_logo_gif](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/BUG_logo_gif.gif)
   
